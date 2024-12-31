@@ -17,18 +17,4 @@
   <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBoxLayout">
     <Property name="axis" type="int" value="3"/>
   </Layout>
-  <SubComponents>
-    <Component class="com.raven.swing.JIMSendTextPane" name="txt">
-      <Properties>
-        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
-          <Border info="org.netbeans.modules.form.compat2.border.EmptyBorderInfo">
-            <EmptyBorder bottom="5" left="10" right="10" top="10"/>
-          </Border>
-        </Property>
-        <Property name="selectionColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="ff" green="bc" red="5c" type="rgb"/>
-        </Property>
-      </Properties>
-    </Component>
-  </SubComponents>
 </Form>

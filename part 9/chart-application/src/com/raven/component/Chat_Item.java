@@ -105,13 +105,7 @@ public class Chat_Item extends javax.swing.JLayeredPane {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        txt = new com.raven.swing.JIMSendTextPane();
-
         setLayout(new javax.swing.BoxLayout(this, javax.swing.BoxLayout.PAGE_AXIS));
-
-        txt.setBorder(javax.swing.BorderFactory.createEmptyBorder(10, 10, 5, 10));
-        txt.setSelectionColor(new java.awt.Color(92, 188, 255));
-        add(txt);
     }// </editor-fold>//GEN-END:initComponents
 
     @Override
@@ -124,6 +118,5 @@ public class Chat_Item extends javax.swing.JLayeredPane {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private com.raven.swing.JIMSendTextPane txt;
     // End of variables declaration//GEN-END:variables
 }
